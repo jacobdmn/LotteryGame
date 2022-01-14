@@ -4,6 +4,8 @@ const { abi, evm } = require("../compile");
 const Web3 = require("web3");
 
 const web3 = new Web3(ganache.provider());
+const web4 = new Web3(ganache.provider());
+const web5 = new Web3(ganache.provider());
 
 let accounts, lottery;
 
