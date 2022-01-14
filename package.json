@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.5.1",
+    "assert": "^2.0.0",
     "dotenv": "^11.0.0",
     "fs": "^0.0.1-security",
     "ganache-cli": "^6.12.2",
